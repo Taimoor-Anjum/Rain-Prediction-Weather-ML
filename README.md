@@ -18,7 +18,7 @@ Weather-based binary classification to predict whether it will rain (0 = No, 1 =
 
 ## How to Run
 1. Open in Colab:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Taimoor-Anjum/Rain-Prediction-Weather-ML/blob/main/Weather_Forecasting_Project (3).ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Taimoor-Anjum/Rain-Prediction-Weather-ML/blob/main/Weather_Forecasting_Project_(3).ipynb)
 
 2. Or clone locally:  
    ```bash
